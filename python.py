@@ -1,3 +1,5 @@
+import random
+
 print('hello world')
 
 vars = 'saif'
@@ -10,7 +12,8 @@ if(vars1 != 'apple') :print('good')
 
 else: print('not good')
 
-
 print('hello Phyton')
 
+
+print(f"Random num : {random.randint(1, 100)}")
 
